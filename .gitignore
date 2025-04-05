@@ -1,0 +1,7 @@
+# Ignorer les fichiers de configuration de l'IDE
+.vscode/
+.idea/
+
+# Ignorer les fichiers de l'environnement Python
+src/__pycache__
+*.pyc
