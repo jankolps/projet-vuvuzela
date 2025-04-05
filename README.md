@@ -50,7 +50,7 @@ Les résultats obtenus montrent une bonne concordance entre les calculs théoriq
 git clone https://github.com/jankolps/projet-vuvuzela.git
 ```
 
-3. Allez dans le dossier contenant les programmes :
+2. Allez dans le dossier contenant les programmes :
 ```bash
 cd projet-vuvuzela/src
 ```
