@@ -55,7 +55,7 @@ git clone https://github.com/jankolps/projet-vuvuzela.git
 cd projet-vuvuzela/src
 ```
 
-4. Installer les dépendances:
+3. Installer les dépendances:
 ```bash
 pip install -r requirements.txt
 ```
