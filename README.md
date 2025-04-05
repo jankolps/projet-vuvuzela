@@ -47,7 +47,7 @@ Les résultats obtenus montrent une bonne concordance entre les calculs théoriq
 
 1. Clonez ce dépôt :
 ```bash
-https://github.com/jankolps/projet-vuvuzela.git
+git clone https://github.com/jankolps/projet-vuvuzela.git
 ```
 
 3. Allez dans le dossier contenant les programmes :
